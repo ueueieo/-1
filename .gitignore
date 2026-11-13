@@ -1,0 +1,10 @@
+
+node_modules
+my-project
+
+
+.env
+config.json
+
+*.log
+*.tmp
